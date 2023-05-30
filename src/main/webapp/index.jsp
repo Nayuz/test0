@@ -17,6 +17,7 @@
 <body>
 	<div class="container panel panel-info">
 		<h3 class="panel-heading">Test000 - 수정수정</h3>
+		<p>수정내용을 좀 더 늘리면 되나??</p>
 	</div>
 </body>
 </html>
